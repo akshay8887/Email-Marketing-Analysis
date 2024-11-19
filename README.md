@@ -1,0 +1,3 @@
+- This project is about list of subscribers for the email newsletters
+- This dataset has around 10k records that inlcudes varied information patterns and constraints like physical features, locations and the status of the individuals who have subscribed for the E-mail newsletters.
+- Analyzed with meaningful visualizations that will target subscriber age, category, resident location who are most likely to subsribe for newsletters.
